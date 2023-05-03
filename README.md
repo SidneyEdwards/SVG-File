@@ -20,7 +20,5 @@ Command line tool to generate an svg logo and write it to file.
 
 
 ## Video Walk-Through
-
-https://drive.google.com/file/d/1cKBiLzf2eTetKYDOD3QqeMEwvKadbAYG/viewLinks to an external site.
-
+https://drive.google.com/file/d/1VD62GlE-AXhy9HLHnHJ4_XtE6TFg5R0r/view
  
