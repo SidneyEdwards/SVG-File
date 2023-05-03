@@ -17,3 +17,8 @@ Command line tool to generate an svg logo and write it to file.
 <https://marketplace.visualstudio.com/items?itemName=jock.svg>
 <https://github.com/SBoudrias/Inquirer.js>
 <https://jestjs.io/>
+
+
+https://drive.google.com/file/d/1cKBiLzf2eTetKYDOD3QqeMEwvKadbAYG/viewLinks to an external site.
+
+ 
