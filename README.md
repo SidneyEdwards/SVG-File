@@ -19,6 +19,8 @@ Command line tool to generate an svg logo and write it to file.
 <https://jestjs.io/>
 
 
+## Video Walk-Through
+
 https://drive.google.com/file/d/1cKBiLzf2eTetKYDOD3QqeMEwvKadbAYG/viewLinks to an external site.
 
  
